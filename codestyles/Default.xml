@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <RsCodeStyleSettings>
+    <option name="ALIGN_TYPE_PARAMS" value="true" />
+    <option name="SPACE_AROUND_ASSOC_TYPE_BINDING" value="true" />
+  </RsCodeStyleSettings>
+  <codeStyleSettings language="Rust">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+  </codeStyleSettings>
+</code_scheme>
