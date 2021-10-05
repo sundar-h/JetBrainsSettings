@@ -1,4 +1,7 @@
 <keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
 </keymap>
