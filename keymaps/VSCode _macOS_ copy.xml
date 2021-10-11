@@ -2,6 +2,29 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="Console.TableResult.ColumnVisibility" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorJoinLines" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="LeaderAction">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
+  <action id="QuickPreview" />
+  <action id="SplitChooser.SplitCenter" />
 </keymap>
