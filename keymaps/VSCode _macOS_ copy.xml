@@ -2,6 +2,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta delete" />
@@ -11,11 +14,18 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorIndentLineOrSelection" />
   <action id="EditorJoinLines" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="LeaderAction">
     <keyboard-shortcut first-keystroke="alt space" />

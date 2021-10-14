@@ -1,0 +1,33 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="This lets us get ownership over the&#10;             the data that was there before we replaced it." />
+      <item value="   No matter what state the task was in we can safely set it&#10;             to ready at this point. This lets us get ownership over the&#10;             the data that was there before we replaced it." />
+      <item value=" This is a &quot;fake&quot; reactor. It does no real IO, but that also makes our&#10; code possible to run in the book and in the playground" />
+      <item value="The different states a task can have in this Reactor" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1634191088286" />
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="keepFormat" value="true" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="16d1db0bbaf53a8d" />
+        <option name="primaryLanguage" value="ALBANIAN" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
