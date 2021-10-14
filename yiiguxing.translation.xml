@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" we need to make sure we add these in the same order as defined in the Trait." />
       <item value="alignment of data" />
       <item value=" vtable is like special purpose array of pointer-length types with a fixed&#10;     format where the three first values contains some general information like&#10;     a pointer to drop and the length and data alignment of `data`." />
       <item value="  Since we need to pass in literal values like length and alignment it's&#10;     easiest for us to convert pointers to usize-integers instead of the other way around.&#10;    vtable: const usize," />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
