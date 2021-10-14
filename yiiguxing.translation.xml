@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" the first thing we do is to construct a `Waker` which we'll pass on to&#10;     the `reactor` so it can wake us up when an event is ready. " />
       <item value="This lets us get ownership over the&#10;             the data that was there before we replaced it." />
       <item value="   No matter what state the task was in we can safely set it&#10;             to ready at this point. This lets us get ownership over the&#10;             the data that was there before we replaced it." />
       <item value=" This is a &quot;fake&quot; reactor. It does no real IO, but that also makes our&#10; code possible to run in the book and in the playground" />
@@ -8,8 +9,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
