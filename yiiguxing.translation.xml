@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" vtable is like special purpose array of pointer-length types with a fixed&#10;     format where the three first values contains some general information like&#10;     a pointer to drop and the length and data alignment of `data`." />
+      <item value="  Since we need to pass in literal values like length and alignment it's&#10;     easiest for us to convert pointers to usize-integers instead of the other way around.&#10;    vtable: const usize," />
+      <item value="A reference is a pointer to an instantiated `Data` instance" />
       <item value=" the first thing we do is to construct a `Waker` which we'll pass on to&#10;     the `reactor` so it can wake us up when an event is ready. " />
       <item value="This lets us get ownership over the&#10;             the data that was there before we replaced it." />
       <item value="   No matter what state the task was in we can safely set it&#10;             to ready at this point. This lets us get ownership over the&#10;             the data that was there before we replaced it." />
@@ -9,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
