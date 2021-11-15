@@ -3,6 +3,9 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/data/examples" />
+        <option value="$USER_HOME$/data/tmp" />
+        <option value="$USER_HOME$/data/sensetime/rust/runtime" />
+        <option value="$USER_HOME$/data/bck/webassembly/rust" />
       </list>
     </option>
   </component>
